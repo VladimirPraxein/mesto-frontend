@@ -121,7 +121,7 @@ class Api {
 }
 
 export const api = new Api({
-  baseUrl: 'http://api.mesto.project.student.nomoredomains.work',
+  baseUrl: 'https://api.mesto.project.student.nomoredomains.work',
 });
 
 
